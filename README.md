@@ -3,6 +3,7 @@ Learnly is a cutting-edge, full-stack e-learning website that provides a compreh
 
 Demo Video - https://drive.google.com/file/d/1nHjx3neGGfTEDqMfLjsNxvCLKsDkYISc/view?usp=drivesdk
 
+
 ## Inspiration
 The inspiration behind Learnly stemmed from our collective passion for education and the desire to create a platform that could transform the way people learn. We noticed the challenges faced in traditional education, such as limited accessibility, high costs, and a lack of personalized learning experiences. This inspired us to build an all-in-one e-learning app that could address these issues and make quality education accessible to all.
 

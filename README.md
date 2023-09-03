@@ -1,7 +1,7 @@
 # Learnly
 Learnly is a cutting-edge, full-stack e-learning website that provides a comprehensive and user-friendly platform. With an extensive course library covering various subjects and skills, seamless video streaming, interactive comments, and doubt resolution, Learnly offers an immersive and collaborative learning experience. 
 
-Demo Video - https://drive.google.com/file/d/1nHjx3neGGfTEDqMfLjsNxvCLKsDkYISc/view?usp=drivesdk
+Demo - https://drive.google.com/file/d/1nHjx3neGGfTEDqMfLjsNxvCLKsDkYISc/view?usp=drivesdk
 
 
 ## Inspiration
